@@ -14,7 +14,6 @@ This project analyzes a dataset of patients with Obsessive-Compulsive Disorder (
 ## Tools and Technologies Used
 - **Python** – Pandas, NumPy, Matplotlib, Seaborn  
 - **Jupyter Notebook** – Step-by-step analysis and visualization  
-- 
 
 ## Key Insights & Observations
 - **Age:** Higher OCD prevalence is observed in adult and older age groups.  
